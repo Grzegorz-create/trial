@@ -6,6 +6,9 @@ class PlayerCharacter():
 	def run(self):
 		return self
 
+	def new_func(self):
+		pass
+
 	@classmethod
 	def dodaj(cls, num1, num2):
 		return num1 + num2
